@@ -1,4 +1,4 @@
-# Credit-Risk-Anaylsis
+# Credit-Risk-Analysis
 
 ## Anaylsis Overview
 The purpose of this anaylsis is to find which algorithm would be bsest for calcuatiing credit card risk.
