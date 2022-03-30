@@ -56,5 +56,5 @@ From our six machines the results are as follow
 
 
 ## Summary and Conclusion
-From our six machines while precison scores are more or less consistant. However we see a varitey of scores for accuracy. accuracy as well varied widely from all the machines used. Taking this all into consideration i would recommenmd the EasyEnsenbleClassifier algorithm. It is far about the others in terms of balanced accuracy sfore and recall score. This suggest that this machine is the best bet in terms of modeling and would give the most consistant and most reliable information.
+From our six machines while precison scores are more or less consistant. However we see a varitey of scores for accuracy. accuracy as well varied widely from all the machines used. Taking this all into consideration i would recommenmd the EasyEnsenbleClassifier algorithm. It is far above the others in terms of balanced accuracy sfore and recall score. This suggest that this machine is the best bet in terms of modeling and would give the most consistant and most reliable information.
 
